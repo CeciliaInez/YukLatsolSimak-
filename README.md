@@ -6,9 +6,9 @@ Program yang kelompok 9 buat adalah program YukLatsolSimak dimana program ini me
 
 Program ini mengimplementasikan file handling pada sign up & login admin serta linked list dalam bentuk penambahan, penyuntingan soal. Serta perhitungan skor menerapkan multiprogramming.
 
-Created by:\n\n
+Created by:
 
-Cecilia Inez Reva - 2106636994\n
-Shabrina Kamiliya - 2106733894\n
-Teknik Komputer\n
-Universitas Indonesia
++ Cecilia Inez Reva - 2106636994
++ Shabrina Kamiliya - 2106733894
++ Teknik Komputer
++ Universitas Indonesia
