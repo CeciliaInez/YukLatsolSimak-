@@ -10,5 +10,5 @@ Created by:
 
 + Cecilia Inez Reva - 2106636994
 + Shabrina Kamiliya - 2106733894
-<br />Teknik Komputer
+<br /><br />Teknik Komputer
 <br />Universitas Indonesia
