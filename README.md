@@ -1,0 +1,2 @@
+# YukLatsolSimak-
+Proyek Akhir Proglan
